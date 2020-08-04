@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello Github 👋
+
+<p align="center">
+  <samp>
+I'm Felipe Frantz Zanini. A FullStack Developer from Brazil and pixelArt enthusiastic. 
+     <br><br>Contact me on <a href="https://www.linkedin.com/in/ffzanini/">Linkedin</a>
+  </samp>
+</p>
+
 
 <!--
 **ffzanini/ffzanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -42,14 +42,3 @@
   <br/>
   I'm now learning NodeJS, ReactJS and React Native with <a href="https://github.com/rocketseat">@rocketseat</a> in "Bootcamp GoStack".
 </p>
-<h3>Fun and Interesting facts about me:</h3>
-<ul>
-  <li>Currently I'm jiu jitsu blue belt and this is my favorite hobby.</li>
-  <li>I love cook! My flahship is hamburguer. </li>
-  <li>About Games? Indies, mobas and World of Warcraft.</li>
-  <li>I was a Rugby Player.</li>
-  <li>I wrote two songs, from the lyrics to the melody.</li>
-  <li>I fix my computer myself since when I was 14yo and just let others do after I try.</li>
-  <li>I love to be challenged and help others with their problems.</li>
-</ul>
-<br/>

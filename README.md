@@ -1,13 +1,7 @@
-<!-- Languages -->
-<p align="center">
-  <code>#HTML</code> &nbsp; <code>#CSS</code> &nbsp; <code>#PHP</code> &nbsp; <code>#MySQL</code> &nbsp; <code>#Javascript</code> &nbsp; <code>#Typescript</code>
-</p>
-<br/>
-<br/>
 <!-- Icons -->
 <p align="center">
   <!-- GitHub -->
-  <a href="https://github.com/ffzanini" title="GitHub" target="_blank">
+  <a href="https://github.com/ffzanini" title="GitHub">
     <img src="https://img.shields.io/github/followers/ffzanini?label=follow&style=social" height="22" title="Follow me" />
   </a>
   <!-- Linkedin -->
@@ -22,10 +16,18 @@
   <a href="https://www.instagram.com/ffzanini" title="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ffzanini" height="22" title="Instagram" />
   </a>
+   <!-- Gmail -->
+  <a href="mailto:devffzanini@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devffzanini@gmail.com" height="22" title="Gmail" />
+  </a>
+  
   <!-- Twitter -->
   <a href="https://twitter.com/ffzanini/" title="Twitter" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-006AEB?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/ffzanini" height="22" title="Instagram" />
   </a>
+  <!-- Gmail -->
+
+  
 </p>
 <!-- Title -->
 <p align="center">
@@ -51,5 +53,3 @@
   <li>I love to be challenged and help others with their problems.</li>
 </ul>
 <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffzanini&layout=compact&theme=dracula)

@@ -42,6 +42,7 @@
   <br/>
   To improve on what’s new in the programming world, I’m learning NodeJS, ReactJS and React Native with <a href="https://github.com/rocketseat">@rocketseat</a> in "Bootcamp GoStack".
   <br/>
+  <br/>
   <b>[PT-BR]</b> Olá Github 👋! Sou um programador brasileiro que sempre amou criar, aprender e praticar diversas coisas sobre tecnologia. Sou oficialmente desenvolvedor desde 2010 e minha principal linguagem de atuação no momento é o PHP (Laravel e CodeIgniter) com sua integração realizada no banco de dados MySql. Além disso, também tenho conhecimento em JS, CSS, HTML e algumas outras ferramentas para gestão de processos e design. Atualmente minhas principais paixões são de fazer animações, pixel art, programas, sites e escrever histórias.<br/>
   <br/>
   Para me aprimorar no que existe de novo no mundo da programação, estou aprendendo NodeJS, ReactJS e React Native com a <a href="https://github.com/rocketseat">@rocketseat</a> no "Bootcamp GoStack".

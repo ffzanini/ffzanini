@@ -38,7 +38,11 @@
 <br/>
 <!-- Content -->
 <p align="justify">
-  Hello Github 👋! I'm a Brazilian developer who always loved to create and learn practical things about technology. Actually my principal passions are do pixel draws, animations, softwares, websites and write stories.<br/>
+  <b>[EN-US]</b> Hello Github 👋! I'm a Brazilian developer who always loved to create and learn practical things about technology. I'm officially a developer since 2010 and my main language at the moment is PHP (Laravel and CodeIgniter) with its integration in the MySql database. In addition, I also have knowledge in JS, CSS, HTML and some other tools for process management and design. Actually my principal passions are do animations, pixel art, softwares, websites and write stories.<br/>
   <br/>
-  I'm now learning NodeJS, ReactJS and React Native with <a href="https://github.com/rocketseat">@rocketseat</a> in "Bootcamp GoStack".
+  To improve on what’s new in the programming world, I’m learning NodeJS, ReactJS and React Native with <a href="https://github.com/rocketseat">@rocketseat</a> in "Bootcamp GoStack".
+  <br/>
+  <b>[PT-BR]</b> Olá Github 👋! Sou um programador brasileiro que sempre amou criar, aprender e praticar diversas coisas sobre tecnologia. Sou oficialmente desenvolvedor desde 2010 e minha principal linguagem de atuação no momento é o PHP (Laravel e CodeIgniter) com sua integração realizada no banco de dados MySql. Além disso, também tenho conhecimento em JS, CSS, HTML e algumas outras ferramentas para gestão de processos e design. Atualmente minhas principais paixões são de fazer animações, pixel art, programas, sites e escrever histórias.<br/>
+  <br/>
+  Para me aprimorar no que existe de novo no mundo da programação, estou aprendendo NodeJS, ReactJS e React Native com a <a href="https://github.com/rocketseat">@rocketseat</a> no "Bootcamp GoStack".
 </p>

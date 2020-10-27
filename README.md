@@ -38,9 +38,9 @@
 <br/>
 <!-- Content -->
 <p align="justify">
-  <b>[EN-US]</b> Hello Github 👋! I'm a Brazilian developer who always loved to create and learn practical things about technology. I'm officially a developer since 2010 and my main language at the moment is PHP (Laravel and CodeIgniter) with its integration in the MySql database. In addition, I also have knowledge in JS, CSS, HTML and some other tools for process management and design. Actually my principal passions are do animations, pixel art, softwares, websites and write stories.<br/>
+  Hello Github 👋! I'm a Brazilian developer who always loved to create, learn and pratice things about technology. I'm officially a developer since 2010 and my main dev language at the moment is PHP using laravel or codeigniter framework, as well, my usual integration is with MySql database. In addition, I also have knowledge in JS, CSS3, HTML5 and some other tools for design and process management.<br/>
   <br/>
-  To improve on what’s new in the programming world, I’m learning NodeJS, ReactJS and React Native with <a href="https://github.com/rocketseat">@rocketseat</a> in "Bootcamp GoStack".
+  To keep improving in programming world and keep updated, now I’m learning NodeJS, ReactJS and React Native with <a href="https://github.com/rocketseat"> @rocketseat </a> in "Bootcamp GoStack".
   <br/>
   <br/>
   
@@ -49,14 +49,9 @@
     name: 'Felipe Frantz Zanini',
     age: 27,
     city: 'Pelotas, RS',
-    stack: ['PHP', 'CSS3', 'JavaScript', 'NodeJS', 'React', 'React Native', 'MySQL', 'MongoDB'],
-    hobby: 'draw pixelart, jiu jitsu, write stories, game dev and drink coffe'
+    stack: ['PHP', 'CSS3', 'JavaScript', 'NodeJS', 'ReactJS', 'React Native', 'MySQL', 'MongoDB'],
+    hobby: 'draw pixelart, animations, jiu jitsu, write stories and game dev'
   });
   
   return response.status(201).send();
 ```
-<hr>
-
-<h1 align="center">
-<img alt="ffzanini" src="https://github-readme-stats.codestackr.vercel.app/api?username=ffzanini&show_icons=true&hide_border=true&theme=dark" />
-</h1>

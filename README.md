@@ -49,7 +49,9 @@
     name: 'Felipe Frantz Zanini',
     age: 27,
     city: 'Pelotas, RS',
-    stack: ['PHP', 'CSS3', 'JavaScript', 'NodeJS', 'ReactJS', 'React Native', 'MySQL', 'MongoDB'],
+    jobrole: 'Front-end Developer',
+    company: 'Nave',
+    stack: ['PHP', 'CodeIgniter', 'Laravel', 'CSS3', 'JavaScript', 'NodeJS', 'ReactJS', 'React Native', 'MySQL', 'MongoDB'],
     hobby: 'draw pixelart, animations, jiu jitsu, write stories and game dev'
   });
   

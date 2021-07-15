@@ -40,7 +40,7 @@
 <p align="justify">
   Hello Github 👋! I'm a Brazilian developer who always loved to create, learn and pratice things about technology. I'm officially a developer since 2010 and my main dev language at the moment is PHP using laravel or codeigniter framework, as well, my usual integration is with MySql database. In addition, I also have knowledge in JS, CSS3, HTML5 and some other tools for design and process management.<br/>
   <br/>
-  To keep improving in programming world and keep updated, now I’m learning NodeJS, ReactJS and React Native with <a href="https://github.com/rocketseat"> @rocketseat </a> in "Bootcamp GoStack".
+  To keep improving in programming world and keep updated, now I’m learning ReactJS with <a href="https://github.com/rocketseat"> @rocketseat </a> in "Ignite".
   <br/>
   <br/>
   

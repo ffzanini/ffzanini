@@ -1,7 +1,5 @@
 <!-- Icons -->
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=ffzanini&color=006bed)
-
   <!-- GitHub -->
   <a href="https://github.com/ffzanini" title="GitHub">
     <img src="https://img.shields.io/github/followers/ffzanini?label=follow&style=social" height="22" title="Follow me" />

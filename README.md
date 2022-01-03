@@ -1,5 +1,9 @@
 <!-- Icons -->
 <p align="center">
+  <!-- Site --> 
+  <a href="https://ffzanini.dev" title="Website" target="_blank">
+    <img src="https://img.shields.io/badge/-ffzanini.dev-green?style=flat-square&label=Website&link=https://ffzanini.dev" height="22" title="Website"/>
+  </a>
   <!-- GitHub -->
   <a href="https://github.com/ffzanini" title="GitHub">
     <img src="https://img.shields.io/github/followers/ffzanini?label=follow&style=social" height="22" title="Follow me" />
@@ -32,13 +36,12 @@
 <!-- Title -->
 <p align="center">
   <h1 align="center">F E L I P E &nbsp; F R A N T Z &nbsp; Z A N I N I</h1>
-  <p align="center"><b>Developer and PixelArt Artist</b></p>
+  <p align="center"><b>Software Engineer and PixelArt Artist</b></p>
 </p>
-<br/>
 <br/>
 <!-- Content -->
 <p align="justify">
-  Hello Github 👋! I'm a Brazilian developer who always loved to create, learn and pratice things about technology. I'm officially a developer since 2010 and my main dev language at the moment is PHP using laravel or codeigniter framework, as well, my usual integration is with MySql database. In addition, I also have knowledge in JS, React, Angular, Vue, Node, CSS3, HTML5 and some other tools for design and process management.<br/>
+  Hello Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>! I'm a Software Engineer focused on Web development, I'm 28 years old and based in Brazil. I currently work at <a href="https://nave.rs">Nave</a>, building the next generation of web applications and being tech lead of some projects.
   <br/>
   <br/>
   
@@ -47,11 +50,14 @@
     name: 'Felipe Frantz Zanini',
     age: 28,
     city: 'Pelotas, RS',
-    jobrole: 'Front-end Developer',
+    jobrole: 'Software Engineer',
     company: 'Nave',
-    stack: ['PHP', 'CodeIgniter', 'Laravel', 'CSS3', 'JavaScript', 'NodeJS', 'ReactJS', 'Angular', 'Vue', 'MySQL', 'MongoDB'],
-    hobby: 'draw pixelart, animations, jiu jitsu, write stories, musics and game dev'
+    stack: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'ReactJS', 'Angular', 'Vue', 'Material-UI', 'Bootstrap', 'NodeJS', 'Express', 'PHP', 'CodeIgniter', 'Laravel', 'MySQL', 'MongoDB'],
+    hobby: 'draw pixelart, animations, play piano, write musics, jiu jitsu, write stories and game dev'
   });
   
   return response.status(201).send();
 ```
+<p align="center">
+    <a href="https://github.com/ffzanini" target="_blank"><img alt="ffzanini" src="https://badges.pufler.dev/visits/ffzanini/ffzanini?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+</p>

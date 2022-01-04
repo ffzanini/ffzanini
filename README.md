@@ -58,6 +58,13 @@
   
   return response.status(201).send();
 ```
+
+```javascript
+const importantLinks = {
+   👨🏻‍💻 Portfolio: 'https://ffzanini.dev',
+   👋 Email: 'hello@ffzanini.dev',
+}
+```
 <p align="center">
     <a href="https://github.com/ffzanini" target="_blank"><img alt="ffzanini" src="https://badges.pufler.dev/visits/ffzanini/ffzanini?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
 </p>

@@ -51,7 +51,7 @@
     age: 28,
     city: 'Pelotas, RS',
     jobrole: 'Software Engineer',
-    company: 'Nave',
+    company: 'Nave.rs',
     stack: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'ReactJS', 'Angular', 'Vue', 'Material-UI', 'Bootstrap', 'NodeJS', 'Express', 'PHP', 'CodeIgniter', 'Laravel', 'MySQL', 'MongoDB'],
     hobby: 'draw pixelart, animations, play piano, write musics, jiu jitsu, write stories and game dev'
   });

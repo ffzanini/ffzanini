@@ -24,14 +24,10 @@
   <a href="mailto:devffzanini@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devffzanini@gmail.com" height="22" title="Gmail" />
   </a>
-  
   <!-- Twitter -->
   <a href="https://twitter.com/ffzanini/" title="Twitter" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-006AEB?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/ffzanini" height="22" title="Instagram" />
   </a>
-  <!-- Gmail -->
-  
-  
 </p>
 <!-- Title -->
 <p align="center">

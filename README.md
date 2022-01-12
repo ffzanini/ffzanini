@@ -37,7 +37,7 @@
 <br/>
 <!-- Content -->
 <p align="justify">
-  Hello Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>! I'm a Software Engineer focused on Web development, I'm 28 years old and based in Brazil. I currently work at <a href="https://nave.rs">Nave</a>, building the next generation of web applications and being tech lead of some projects.
+  Hello Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>! I'm a Software Engineer focused on Web development, I'm 28 years old and based in Brazil. I currently work at <a href="https://nave.rs">Nave.rs</a>, building the next generation of web applications and being tech lead of some projects.
   <br/>
   <br/>
   

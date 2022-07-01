@@ -82,5 +82,5 @@
 ```
 <!-- Visits -->
 <p align="center">
-    <a href="https://github.com/ffzanini" target="_blank"><img alt="ffzanini" src="https://badges.pufler.dev/visits/ffzanini/ffzanini?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+<img alt="ffzanini" src="https://komarev.com/ghpvc/?username=ffzanini&label=Visits&color=success&style=flat-square"/>
 </p>

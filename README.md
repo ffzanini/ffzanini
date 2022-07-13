@@ -71,7 +71,7 @@
 ```javascript
   async user.index({
     name: 'Felipe Frantz Zanini',
-    age: 28,
+    age: 29,
     city: 'Pelotas, RS',
     jobrole: 'Software Engineer',
     company: 'Nave.rs',

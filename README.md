@@ -32,12 +32,12 @@
 <!-- Title -->
 <p align="center">
   <h1 align="center">F E L I P E &nbsp; F R A N T Z &nbsp; Z A N I N I</h1>
-  <p align="center"><b>Software Engineer and PixelArt Artist</b></p>
+  <p align="center"><b>Frontend Developer & Tech Lead</b></p>
 </p>
 <br/>
 <!-- Content -->
 <p align="justify">
-  Hello Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></a>! I'm a Tech Lead & Software Developer focused on Web development, I'm 29 years old and based in Brazil. I currently work at <a href="https://nave.rs">Nave.rs</a>, building the next generation of web applications.
+  Hello Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></a>! I'm a Frontend Developer & Tech Lead focused on web development, I'm 29 years old and based in Brazil. I currently work at <a href="https://nave.rs">Nave.rs</a>, building the next generation of web applications.
   <br/>
   <br/>
 </p>
@@ -73,9 +73,9 @@
     name: 'Felipe Frantz Zanini',
     age: 29,
     city: 'Pelotas, RS',
-    jobrole: 'Software Engineer',
+    jobrole: 'Frontend Developer & Tech Lead',
     company: 'Nave.rs',
-    hobby: 'draw pixelart, animations, play piano, write musics, jiu jitsu, write stories and game dev'
+    hobby: 'draw pixelart, animations, play piano, game dev, write scripts, musics, stories and fight jiu jitsu.'
   });
   
   return response.status(201).send();

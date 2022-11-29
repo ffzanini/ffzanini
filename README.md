@@ -75,11 +75,20 @@
     city: 'Balneário Camboriú, SC',
     jobrole: 'Frontend Developer & Tech Lead',
     company: 'Nav9',
-    hobby: 'draw pixelart, animations, play piano, game dev, write scripts, musics, stories and fight jiu jitsu.'
+    hobbys: 'draw pixelart, animations, play piano, game dev, write scripts, musics, stories and fight jiu jitsu.'
   });
   
   return response.status(201).send();
 ```
+
+```javascript
+const importantLinks = {
+   📒 TabNews: 'https://www.tabnews.com.br/ffzanini', 
+   👨🏻‍💻 Portfolio: 'https://ffzanini.dev',
+   👋 Email: 'devffzanini@gmail.com'
+}
+```
+
 <!-- Visits -->
 <p align="center">
 <img alt="ffzanini" src="https://komarev.com/ghpvc/?username=ffzanini&label=Visits&color=success&style=flat-square"/>

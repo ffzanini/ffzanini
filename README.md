@@ -71,8 +71,8 @@
 ```javascript
   async user.index({
     name: 'Felipe Frantz Zanini',
-    age: 29,
-    city: 'Balneário Camboriú, SC',
+    age: 30,
+    city: 'Dom Pedrito, RS',
     jobrole: 'Frontend Developer & Tech Lead',
     company: 'Nav9',
     hobbys: 'draw pixelart, animations, play piano, game dev, write scripts, musics, stories and fight jiu jitsu.'

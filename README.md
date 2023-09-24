@@ -37,7 +37,7 @@
 <br/>
 <!-- Content -->
 <p align="justify">
-  Hello Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></a>! I'm a Frontend Developer & Tech Lead focused on web development, I'm 29 years old and based in Brazil. I currently work at <a href="https://www.nav9.tech">Nav9</a> as a tech solving partner and building the next generation of web applications.
+  Hello Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></a>! I'm a Frontend Developer & Tech Lead focused on web development, I'm 30 years old and based in Brazil. I currently work at <a href="https://www.nav9.tech">Nav9</a> as a tech solving partner and building the next generation of web applications.
   <br/>
   <br/>
 </p>
@@ -86,6 +86,7 @@ const importantLinks = {
    📒 TabNews: 'https://www.tabnews.com.br/ffzanini', 
    👨🏻‍💻 Portfolio: 'https://ffzanini.dev',
    👋 Email: 'devffzanini@gmail.com'
+   📚 Books: 'https://www.skoob.com.br/perfil/ffzanini'
 }
 ```
 

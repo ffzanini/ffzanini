@@ -37,7 +37,7 @@
 <br/>
 <!-- Content -->
 <p align="justify">
-  Hello Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></a>! I'm a Frontend Developer & Tech Lead focused on web development, I'm 30 years old and based in Brazil. I currently work at <a href="https://www.nav9.tech">Nav9</a> as a tech solving partner and building the next generation of web applications.
+  Hello Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></a>! I'm a Frontend Developer & Tech Lead focused on web development, I'm 30 years old and based in Brazil. I currently work at <a href="https://www.nav9.tech">nav9</a> as a tech solving partner and building the next generation of web applications.
   <br/>
   <br/>
 </p>
@@ -74,7 +74,7 @@
     age: 30,
     city: 'Dom Pedrito, RS',
     jobrole: 'Frontend Developer & Tech Lead',
-    company: 'Nav9',
+    company: 'nav9',
     hobbys: 'draw pixelart, animations, play piano, game dev, write scripts, musics, stories and fight jiu jitsu.'
   });
   

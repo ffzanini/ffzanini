@@ -32,7 +32,7 @@
 <!-- Title -->
 <p align="center">
   <h1 align="center">F E L I P E &nbsp; F R A N T Z &nbsp; Z A N I N I</h1>
-  <p align="center"><b>Software Engineer</b></p>
+  <p align="center"><b>Software Engineer & Tech Lead</b></p>
 </p>
 <br/>
 <!-- Content -->

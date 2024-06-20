@@ -72,7 +72,7 @@
   async user.index({
     name: 'Felipe Frantz Zanini',
     age: 30,
-    city: 'Dom Pedrito, RS',
+    city: 'Pelotas, RS',
     jobrole: 'Software Engineer & Tech Lead',
     company: 'nav9',
     hobbys: 'draw pixelart, animations, play piano, game dev, write scripts, musics, stories and fight jiu jitsu.'

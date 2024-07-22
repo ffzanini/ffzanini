@@ -38,7 +38,7 @@
 <!-- Content -->
 <p align="justify">
   Hello Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></a>! 
-  I'm currently a Senior Software Engineer & Tech Lead at <a href="https://www.nav9.tech">nav9</a> working as a tech solving partner and building the next generation of web applications. I'm 30 years old and based in Pelotas, Brazil.
+  I'm currently a Senior Software Engineer & Tech Lead at <a href="https://www.nav9.tech">nav9</a> working as a tech solving partner and building the next generation of web applications. I'm 31 years old and based in Pelotas, Brazil.
   <br/>
   <br/>
 </p>
@@ -72,7 +72,7 @@
 ```javascript
   async user.index({
     name: 'Felipe Frantz Zanini',
-    age: 30,
+    age: 31,
     city: 'Pelotas, RS',
     jobrole: 'Senior Software Engineer & Tech Lead',
     company: 'nav9',

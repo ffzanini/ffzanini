@@ -1,32 +1,25 @@
-<!-- Icons -->
+<!-- Socials -->
 <p align="center">
-  <!-- Site --> 
-  <a href="https://ffzanini.dev" title="Website" target="_blank">
-    <img src="https://img.shields.io/badge/-ffzanini.dev-green?style=flat-square&label=Website&link=https://ffzanini.dev" height="22" title="Website"/>
+  <a href="https://ffzanini.dev" target="_blank" rel="noopener noreferrer">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ffzanini.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <!-- GitHub -->
-  <a href="https://github.com/ffzanini" title="GitHub">
-    <img src="https://img.shields.io/github/followers/ffzanini?label=follow&style=social" height="22" title="Follow me" />
+  <a href="https://github.com/ffzanini" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/ffzanini/" title="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ffzanini" height="22" title="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ffzanini/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- Rocketseat -->
-  <a href="https://app.rocketseat.com.br/me/ffzanini" title="Rocketseat" target="_blank">
-    <img src="https://img.shields.io/badge/-Rocketseat-blueviolet?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/ffzanini" height="22" title="Rocketseat"/>
+  <a href="https://www.instagram.com/ffzanini" target="_blank" rel="noopener noreferrer">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/ffzanini" title="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ffzanini" height="22" title="Instagram" />
+  <a href="https://twitter.com/ffzanini/" target="_blank" rel="noopener noreferrer">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-   <!-- Gmail -->
-  <a href="mailto:devffzanini@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devffzanini@gmail.com" height="22" title="Gmail" />
+  <a href="https://app.rocketseat.com.br/me/ffzanini" target="_blank" rel="noopener noreferrer">
+    <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-8257E5?style=for-the-badge&logo=rocketseat&logoColor=white" />
   </a>
-  <!-- Twitter -->
-  <a href="https://twitter.com/ffzanini/" title="Twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-006AEB?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/ffzanini" height="22" title="Instagram" />
+  <a href="mailto:devffzanini@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 <!-- Title -->
@@ -37,38 +30,65 @@
 <br/>
 <!-- Content -->
 <p align="justify">
-  Hello Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></a>! 
+  Hello Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">!
   I'm currently a Senior Software Engineer & Tech Lead at <a href="https://www.nav9.tech">nav9</a> working as a tech solving partner and building the next generation of web applications. I'm 31 years old and based in Pelotas, Brazil.
   <br/>
   <br/>
 </p>
 
-### 🛠️ Languages and Tools:
+### 🧰 Stack atual
+Lista completa em [ffzanini.dev/stack](https://www.ffzanini.dev/stack).
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red)
-![Vue](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vue.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=mui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express.js)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=CodeIgniter)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&logoColor=blue)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+#### Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-0D1117?style=flat&logo=ruby&logoColor=white)
 
-<!-- stack: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'ReactJS', 'Angular', 'Vue', 'Material-UI', 'Bootstrap', 'NodeJS', 'Express', 'PHP', 'CodeIgniter', 'Laravel', 'MySQL', 'MongoDB'], -->
+#### Frontend
+![React](https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=flat&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-0D1117?style=flat&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=flat&logo=bootstrap&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-0D1117?style=flat&logo=vuetify&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-0D1117?style=flat&logo=storybook&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-0D1117?style=flat&logo=codeigniter&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-0D1117?style=flat&logo=rubyonrails&logoColor=white)
+
+#### Bancos de dados & BaaS
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat&logo=firebase&logoColor=white)
+
+#### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=flat&logo=cloudflare&logoColor=white)
+
+#### Versionamento & Colaboração
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=flat&logo=gitlab&logoColor=white)
+
+#### Criativo & Game Dev
+![Godot](https://img.shields.io/badge/Godot-0D1117?style=flat&logo=godotengine&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-0D1117?style=flat&logo=aseprite&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0D1117?style=flat&logo=audacity&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-0D1117?style=flat&logo=obsstudio&logoColor=white)
+
+<!-- stack: ['Aseprite', 'Audacity', 'Bootstrap', 'CSS3', 'Cloudflare', 'CodeIgniter', 'Docker', 'Express', 'Firebase', 'Git', 'GitHub', 'GitLab', 'Godot', 'HTML5', 'JavaScript', 'Laravel', 'MUI', 'MongoDB', 'MySQL', 'NestJS', 'Next.js', 'Node.js', 'OBS Studio', 'PHP', 'PostgreSQL', 'Rails', 'React', 'Ruby', 'Storybook', 'Tailwind', 'TypeScript', 'Vercel', 'Vite', 'Vue.js', 'Vuetify'], -->
 ```javascript
   async user.index({
     name: 'Felipe Frantz Zanini',
